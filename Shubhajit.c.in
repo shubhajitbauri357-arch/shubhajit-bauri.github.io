@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="About Shubhajit Bauri, a Class 8 student interested in technology, coding and app development.">
+    <title>Shubhajit Bauri | About Me</title>
+</head>
+
+<body>
+    <h1>Shubhajit Bauri</h1>
+
+    <p>
+        My name is Shubhajit Bauri. I am 14 years old and I study in
+        Class 8 at DSK DAV Public School in Purulia, West Bengal, India.
+        I am interested in technology, coding, app development, and
+        creative projects.
+    </p>
+
+    <h2>My Projects</h2>
+    <p>I am currently working on projects such as DURLOVNA and LINKORA.</p>
+
+    <h2>Future Ambition</h2>
+    <p>
+        My ambition is to build a successful career in technology and
+        app development and create innovative and useful projects.
+    </p>
+</body>
+</html>
